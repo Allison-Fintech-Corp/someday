@@ -9,7 +9,7 @@ const CALENDARS: string[] = (() => {
     return ["primary"];
   }
 })();
-const TIME_ZONE = "America/Los_Angeles";
+const TIME_ZONE = "America/Chicago";
 //  America/Los_Angeles
 //  America/Denver
 //  America/Chicago
