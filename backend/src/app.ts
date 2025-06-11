@@ -17,8 +17,8 @@ const TIME_ZONE = "America/Chicago";
 //  Europe/Berlin
 const WORKDAYS = [1, 2, 3, 4, 5];
 const WORKHOURS = {
-  start: 9,
-  end: 16,
+  start: 7,
+  end: 18,
 };
 const DAYS_IN_ADVANCE = 28;
 //high numbered days in advance cause significant loading time slow down
